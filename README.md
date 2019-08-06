@@ -24,4 +24,5 @@ More Burl Things
 
 [Data Stuff](https://burll2r.github.io/Data-Stuff/)
 
+[Change Log](https://burll2r.github.io/)
 
