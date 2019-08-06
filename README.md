@@ -1,4 +1,4 @@
-# A General Guide to CP and Equipment in Lineage 2 Revolution
+## A General Guide to CP and Equipment in Lineage 2 Revolution
 This guide was written by Burl, aka Naito, of the Vasper server. 
 While this is an extensive guide, it is not intended to be a definitive work.
 There will be typos, incorrect information, and other errors.
