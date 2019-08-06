@@ -5,7 +5,7 @@ There will be typos, incorrect information, and other errors.
 
 This was written in LaTeX, using Texlive 2019 revision 51555 and TeXstudio 2.12.16.
 
-##### PDF Copy
+#### PDF Copy
 [Link](https://github.com/flyingmonkey132/Lineage-2-Revolution-Stuff/raw/master/L2R_CP_Guide.pdf)
-##### Uncompiled Copy
+#### Uncompiled Copy
 [Link](https://github.com/flyingmonkey132/Lineage-2-Revolution-Stuff/raw/master/L2R_TeX.zip)
