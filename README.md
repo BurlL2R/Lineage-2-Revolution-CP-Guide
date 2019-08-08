@@ -12,9 +12,9 @@ Latest Version - August 5th 2019
 ***
 
 #### PDF Copy
-[Link](https://github.com/BurlL2R/Lineage-2-Revolution-Stuff/raw/master/L2R_CP_Guide.pdf)
+[Link](https://github.com/BurlL2R/Lineage-2-Revolution-CP-Guide/raw/master/L2R_CP_Guide.pdf)
 #### Uncompiled Copy
-[Link](https://github.com/BurlL2R/Lineage-2-Revolution-Stuff/raw/master/L2R_TeX.zip)
+[Link](https://github.com/BurlL2R/Lineage-2-Revolution-CP-Guide/raw/master/L2R_TeX.zip)
 
 ***
 
